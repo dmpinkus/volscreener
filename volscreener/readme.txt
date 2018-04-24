@@ -27,7 +27,3 @@ How volscreener excel file works...
 	f) Output table starts in cell A18.
 
 
-Email Darryl.Pinkus@gmail.com with any questions.
-
-Best,
-DP  
